@@ -1,6 +1,6 @@
 import socket
 import threading
-import o
+import os
 
 def handle_client(c,addr):
     print(addr, "connected")
