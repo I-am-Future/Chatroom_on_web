@@ -1,6 +1,6 @@
 # Chatroom_on_web
 
-A simple LAN chatroom web app, which can be opened in any deviced with browser and you can chat with friends in the local area network. e.g. at school, at home...
+A simple LAN chatroom web app, which can be opened in any devices with browser and you can chat with friends in the local area network. e.g. at school, at home...
 
 Now, the repository contains the flutter project, the servers, and a built web app. 
 
